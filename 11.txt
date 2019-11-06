@@ -1,0 +1,5 @@
+xác thực có vấn đề, xin vui lòng sửa thông tin xác thực của bạn
+ID ứng dụng đã được sử dụng
+ID ứng dụng không cho phép khóa đặc biệt
+không thể tìm thấy thông tin ứng dụng với ID đầu vào:
+người khởi tạo không được phép lấy thông tin ứng dụng
