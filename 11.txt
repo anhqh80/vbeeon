@@ -3,3 +3,4 @@ ID ứng dụng đã được sử dụng
 ID ứng dụng không cho phép khóa đặc biệt
 không thể tìm thấy thông tin ứng dụng với ID đầu vào:
 người khởi tạo không được phép lấy thông tin ứng dụng
+test sửa file
